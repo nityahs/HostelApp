@@ -10,7 +10,7 @@ Leave Application: Students can apply for leave directly through the app.
 Scholarship Records: Students can view scholarship-related information.
 
 **Tech Stack**
-Frontend: Android Development (Java)
+Frontend: Android Development (Java and XML)
 Backend: Firebase (Firestore for data storage, Firebase Authentication for user management)
 
 
