@@ -1,0 +1,108 @@
+{
+    "attendance": {
+      "n9Ri5avCkehVHh9V9TfaLAAkMks1": {
+        "daily_record": {
+          "20230801": true,
+          "20230802": false
+        },
+        "present_days": 28,
+        "total_days": 30
+      },
+      "dxuSUh04FLeRdI9dzEHN4GH2B7T2": {
+        "daily_record": {
+          "20230801": true,
+          "20230802": false
+        },
+        "present_days": 28,
+        "total_days": 30
+      },
+      "user_id_1": {
+        "daily_record": {
+          "20230801": true,
+          "20230802": true,
+          "20230803": false
+        },
+        "present_days": 28,
+        "total_days": 30
+      }
+    },
+    "food_menu": {
+      "date_20230801": {
+        "breakfast": {
+          "menu": "Idli, Sambar, Chutney",
+          "taken_by": {
+            "dxuSUh04FLeRdI9dzEHN4GH2B7T2": true,
+            "n9Ri5avCkehVHh9V9TfaLAAkMks1": false,
+            "user_id_1": true,
+            "user_id_2": false
+          },
+          "time": "7:30 AM - 9:30 AM"
+        },
+        "dinner": {
+          "menu": "Chapati, Rice, Dal, Curry",
+          "taken_by": {
+            "n9Ri5avCkehVHh9V9TfaLAAkMks1": true,
+            "user_id_1": false,
+            "user_id_2": true
+          },
+          "time": "7:30 PM - 9:30 PM"
+        },
+        "lunch": {
+          "menu": "Rice, Dal, Vegetables, Curry",
+          "taken_by": {
+            "dxuSUh04FLeRdI9dzEHN4GH2B7T2": false,
+            "n9Ri5avCkehVHh9V9TfaLAAkMks1": false,
+            "user_id_1": true,
+            "user_id_2": true
+          },
+          "time": "12:30 PM - 2:30 PM"
+        }
+      },
+      "n": {
+        "a": [
+          {
+            "taken": true
+          }
+        ]
+      }
+    },
+    "leave_applications": {
+      "n9Ri5avCkehVHh9V9TfaLAAkMks1": {
+        "-OB7yWl9jVbMoRa8nsBv": {
+          "endDate": "2024-11-20",
+          "reason": "adit1@gmail.com",
+          "startDate": "2024-11-13",
+          "status": "Pending"
+        }
+      },
+      "user_id_1": {
+        "application_1": {
+          "appliedOn": "2023-08-01",
+          "endDate": "2023-08-15",
+          "reason": "Family function",
+          "startDate": "2023-08-10",
+          "status": "pending"
+        }
+      }
+    },
+    "scholarships": {
+      "scholarship_1": {
+        "amount": "50000",
+        "deadline": "2023-09-30",
+        "description": "Available for students with CGPA above 8.5",
+        "title": "Merit Scholarship"
+      },
+      "scholarship_2": {
+        "amount": "75000",
+        "deadline": "2023-10-15",
+        "description": "Available for students with national level sports achievements",
+        "title": "Sports Scholarship"
+      }
+    },
+    "users": {
+      "user_id_1": {
+        "email": "user1@example.com",
+        "name": "User One"
+      }
+    }
+  }
